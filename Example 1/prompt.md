@@ -2,6 +2,8 @@
 
 Paste below into the agent prompt
 
+Credits Used: 2.8 AIC (Luna)
+
 > In `./base application/` Add rate limiting to the API and make sure it works
 
 **The Issue**
